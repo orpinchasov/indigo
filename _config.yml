@@ -1,5 +1,5 @@
 # main text of home
-name: Or Pinchasov
+name: Or Pinchasof
 bio: A man trying to build his website
 
 # twitter summary info
@@ -31,18 +31,18 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-#facebook: myfacebook
+#facebook: or.pinchasov
 #twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+ instagram: orpinchasov
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: orpinchasov
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,15 +51,14 @@ github: mygithub
 #medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: or.pinchasov@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    orp:
+        name: Or Pinchasof
+        bio: Searching
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
