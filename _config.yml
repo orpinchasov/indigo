@@ -37,7 +37,7 @@ disqus:
 #facebook: or.pinchasov
 #twitter: mytwitter
 # google: mygoogle
- instagram: orpinchasov
+instagram: orpinchasov
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
@@ -51,7 +51,7 @@ github: orpinchasov
 #medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: or.pinchasov@gmail.com
+email: "or.pinchasov@gmail.com"
 
 authors:
     orp:
